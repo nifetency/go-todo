@@ -1,5 +1,8 @@
 # Go Todo
 
+The original owner of the repository is https://github.com/ichtrojan/go-todo.
+
+
 ![hero](https://res.cloudinary.com/ichtrojan/image/upload/v1574958373/Screenshot_2019-11-28_at_17.22.25_gyegdr.png)
 
 ## Introduction
